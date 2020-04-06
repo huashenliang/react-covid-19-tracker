@@ -1,0 +1,16 @@
+
+> fibers@4.0.2 install D:\React Porjects\covid-19-tracker\node_modules\fibers
+> node build.js || nodejs build.js
+
+`win32-x64-64` exists; testing
+Binary is fine; exiting
+
+> node-sass@4.0.0 install D:\React Porjects\covid-19-tracker\node_modules\node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.0.0/win32-x64-64_binding.node
+
+> node-sass@4.0.0 postinstall D:\React Porjects\covid-19-tracker\node_modules\node-sass
+> node scripts/build.js
+
+Building: D:\Node\node.exe D:\React Porjects\covid-19-tracker\node_modules\node-gyp\bin\node-gyp.js rebuild --verbose --libsass_ext= --libsass_cflags= --libsass_ldflags= --libsass_library=
